@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>https://saung.id/post-sitemap.xml</loc>
 		<lastmod>2023-03-28T15:28:39+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://saung.id/page-sitemap.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/bambu1.xml</loc>
+		<loc>https://saung.id/bambu1.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/bambu2.xml</loc>
+		<loc>https://saung.id/bambu2.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/bambu3.xml</loc>
+		<loc>https://saung.id/bambu3.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/besi1.xml</loc>
+		<loc>https://saung.id/besi1.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/besi2.xml</loc>
+		<loc>https://saung.id/besi2.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/besi3.xml</loc>
+		<loc>https://saung.id/besi3.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/beton1.xml</loc>
+		<loc>https://saung.id/beton1.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/beton2.xml</loc>
+		<loc>https://saung.id/beton2.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/beton3.xml</loc>
+		<loc>https://saung.id/beton3.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/kayu1.xml</loc>
+		<loc>https://saung.id/kayu1.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/kayu2.xml</loc>
+		<loc>https://saung.id/kayu2.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/kayu3.xml</loc>
+		<loc>https://saung.id/kayu3.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/rumah-kayu1.xml</loc>
+		<loc>https://saung.id/rumah-kayu1.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/rumah-kayu2.xml</loc>
+		<loc>https://saung.id/rumah-kayu2.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/rumah-kayu3.xml</loc>
+		<loc>https://saung.id/rumah-kayu3.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
