@@ -9,23 +9,63 @@
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/bambu.xml</loc>
+		<loc>/bambu1.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/besi.xml</loc>
+		<loc>/bambu2.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/beton.xml</loc>
+		<loc>/bambu3.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/kayu.xml</loc>
+		<loc>/besi1.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/rumah-kayu.xml</loc>
+		<loc>/besi2.xml</loc>
+		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/besi3.xml</loc>
+		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/beton1.xml</loc>
+		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/beton2.xml</loc>
+		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/beton3.xml</loc>
+		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/kayu1.xml</loc>
+		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/kayu2.xml</loc>
+		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/kayu3.xml</loc>
+		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/rumah-kayu1.xml</loc>
+		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/rumah-kayu2.xml</loc>
+		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>/rumah-kayu3.xml</loc>
 		<lastmod>2023-03-27T04:49:13+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
