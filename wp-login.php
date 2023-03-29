@@ -21,7 +21,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="http://saung.id.test/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="https://saung.id/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" autocomplete="username">
@@ -39,7 +39,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="http://saung.id.test/wp-admin/">
+									<input type="hidden" name="redirect_to" value="https://saung.id/wp-admin/">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
